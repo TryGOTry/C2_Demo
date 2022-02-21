@@ -26,9 +26,16 @@ db文件可以在这里下载后放到服务端的db目录下   db下载:https:/
 
 
 # 相关截图
+
 登录团队服务器
+
 ![login](https://github.com/TRYblog/C2_Demo/blob/main/login.png "login")
+
 命令执行
 ![cmd](https://github.com/TRYblog/C2_Demo/blob/main/cmd.png "cmd")
+
 截图
 ![sc](https://github.com/TRYblog/C2_Demo/blob/main/sc.png "sc")
+
+# 时间
+2021-11-3
